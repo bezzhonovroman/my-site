@@ -11,7 +11,7 @@ body {
   background-position: top center;
 }
 
-img {
+.my-face-image {
   border: 5px;
   border-radius: 500px;
   border-style: dotted;
