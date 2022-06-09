@@ -11,6 +11,11 @@ body {
   background-position: top center;
 }
 
+img {
+  width: 320px;
+  height: auto;
+  margin: 50px 0 auto;
+}
 .container {
   max-width: 928px;
   margin: 0 auto;
@@ -70,7 +75,7 @@ body {
 }
 
 .intro {
-  margin: 0 0 50px;
+  margin: 0 0 120px;
 }
 
 .subheading {
