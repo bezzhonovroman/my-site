@@ -53,7 +53,7 @@ img {
 }
 
 .hero-image {
-  margin-bottom: 640px;
+  margin-bottom: 320px;
 }
 
 .hero-image .container {
@@ -76,7 +76,7 @@ img {
 }
 
 .intro {
-  margin: auto;
+  margin: 0 0 120px;
 }
 
 .subheading {
