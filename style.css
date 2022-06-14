@@ -11,16 +11,6 @@ body {
   background-position: top center;
 }
 
-.my-face-image {
-  border: 5px;
-  border-radius: 500px;
-  border-style: dotted;
-  border-color: rgb(1, 12, 18);
-  width: 320px;
-  height: auto;
-  margin: 50px auto;
-}
-
 .container {
   max-width: 928px;
   margin: 0 auto;
@@ -97,6 +87,13 @@ body {
   text-align: center;
 }
 
+.user-image img {
+  border: 5px;
+  border-radius: 500px;
+  border-style: dotted;
+  border-color: rgb(1, 12, 18);
+}
+
 .intro h3,
 .portfolio h3 {
   margin: 0 0 12px;
@@ -164,11 +161,17 @@ body {
   text-align: center;
 }
 
+.project-image img {
+  border: 0px solid;
+  border-radius: 10px;
+}
+
 .projects p {
   margin: 0 0 24px;
 }
 
 .button {
+  margin-bottom: 20px;
   padding: 6px 20px;
   display: inline-block;
   vertical-align: baseline;
